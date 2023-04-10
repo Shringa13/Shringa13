@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Shringa13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/shringabais/)
 
 <!---
